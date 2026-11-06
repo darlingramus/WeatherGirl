@@ -11,7 +11,9 @@
 
 `| Sensor temp/pres/hum | BME280`
 
-`| OLED display | OLED SSD1306`
+`| OLED display | OLED SSD1106`
+
+`| DS3231 clock | RTC`
 
 `| Pull-up resistor | 10kΩ`
 
